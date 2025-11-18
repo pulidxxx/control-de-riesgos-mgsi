@@ -2,7 +2,7 @@
 
 Aplicación web interactiva para la visualización y análisis de la Metodología de Gestión de Riesgos de Seguridad de la Información aplicada a un ejemplo dentro de la organizacion Banco de Bogota.
 
-## 📋 Descripción
+## Descripción
 
 Este proyecto presenta de manera interactiva y visual la metodología completa de gestión de riesgos de seguridad de la información, incluyendo:
 
@@ -15,7 +15,7 @@ Este proyecto presenta de manera interactiva y visual la metodología completa d
 
 Desarrollado como proyecto académico para la Maestría en Gestión y Seguridad de la Información de la Universidad Distrital Francisco José de Caldas.
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 ### Prerrequisitos
 
