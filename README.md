@@ -19,7 +19,7 @@ Desarrollado como proyecto académico para la Maestría en Gestión y Seguridad 
 
 ### Prerrequisitos
 
--   Node.js 18+ instalado
+-   Node.js 18+
 -   pnpm o npm
 
 ### Instalación
@@ -34,16 +34,12 @@ cd control-de-riesgos-mgsi
 2. Instala las dependencias:
 
 ```bash
-pnpm install
-# o
 npm install
 ```
 
-3. Ejecuta el servidor de desarrollo:
+3. Ejecuta la app:
 
 ```bash
-pnpm dev
-# o
 npm run dev
 ```
 
