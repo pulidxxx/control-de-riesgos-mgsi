@@ -9,6 +9,8 @@ import { RecommendationsSection } from '@/components/recommendations-section'
 import { ChartsSection } from '@/components/charts-section'
 import { Footer } from '@/components/footer'
 import { ApplicabilitySection } from '@/components/applicability-section'
+import { InterviewsSection } from '@/components/interviews-section'
+
 
 export default function Home() {
   return (
@@ -23,6 +25,7 @@ export default function Home() {
       <RecommendationsSection />
       <ChartsSection />
       <ApplicabilitySection />
+      <InterviewsSection />
       <Footer />
     </main>
   )

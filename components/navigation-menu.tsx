@@ -13,6 +13,7 @@ const sections = [
     { id: "recommendations", label: "Recomendaciones" },
     { id: "charts", label: "Análisis" },
     { id: "applicability", label: "SoA" },
+    { id: "interviews", label: "Entrevistas" },
 ];
 
 export function NavigationMenu() {
